@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quiz app</string>
+    <string name="welcome">This is the Berkeley admission quiz, please select the larger number.
+        If you are correct, you can win 10 point, else you will lose 10. You will get Berkeley
+        admission as long as you earn 100 points!</string>
+</resources>
